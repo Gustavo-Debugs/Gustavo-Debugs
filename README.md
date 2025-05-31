@@ -89,7 +89,7 @@ Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Est
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
-          
+ <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">         
 
 <br/>
 <br/>
