@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo debugs
 
-**`Analista De Dados`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Estou cursando atualmente o ensino medio na EE Herois da FEEB. Estou fazendo atualmente cursos de engenheiro de dados e Back-End na Alura. Sou apaixonado por tecnologia e compartilho um pouco do meu dia a dia e estudo no meu intagram "[gust.ol.silvs](https://www.instagram.com/gust.ol.silvs?igsh=NGRhcGlvYm56ZDk5)" e estou começando um canal no youtube "[Eu_gust](https://youtube.com/@eu_gust?si=6BZNI7VjpFypaECL)"
 
@@ -89,6 +89,24 @@ Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Est
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
+
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">         
 
 <br/>
