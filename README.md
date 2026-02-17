@@ -2,7 +2,7 @@
 
 **`Analista De Dados`**
 
-Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Estou cursando atualmente o ensino medio na EE Herois da FEEB. Estou fazendo atualmente cursos de engemheiro de dados na Alura. Sou apaixonado por tecnologia e compartilho um pouco do meu dia a dia e estudo no meu intagram "[gust.ol.silvs](https://www.instagram.com/gust.ol.silvs?igsh=NGRhcGlvYm56ZDk5)" e estou começando um canal no youtube "[Eu_gust](https://youtube.com/@eu_gust?si=6BZNI7VjpFypaECL)"
+Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Estou cursando atualmente o ensino medio na EE Herois da FEEB. Estou fazendo atualmente cursos de engenheiro de dados Back-End na Alura. Sou apaixonado por tecnologia e compartilho um pouco do meu dia a dia e estudo no meu intagram "[gust.ol.silvs](https://www.instagram.com/gust.ol.silvs?igsh=NGRhcGlvYm56ZDk5)" e estou começando um canal no youtube "[Eu_gust](https://youtube.com/@eu_gust?si=6BZNI7VjpFypaECL)"
 
 <p align="left">
     <a href="https://youtube.com/@eu_gust?si=6BZNI7VjpFypaECL">
