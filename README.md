@@ -113,22 +113,6 @@ Me chamo Gustavo De Oliveira Silva, tenho 16 anos sou natural de São Paulo. Est
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Debugs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Debugs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+<div align="center">
+  <img height="150" src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=Gustavo-Debugs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
